@@ -82,7 +82,8 @@ I love building things that people actually use and that make their lives easier
 
 ## Certifications
 
-- AWS Certified Developer – Associate
+[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/edfddb56-7d91-4632-a4fd-67496312955b/public_url)
+**AWS Certified Developer – Associate** — Amazon Web Services · *Issued May 2026 · Expires May 2029*
 
 ---
 
