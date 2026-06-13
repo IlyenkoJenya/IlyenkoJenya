@@ -85,6 +85,9 @@ I love building things that people actually use and that make their lives easier
 [![AWS Certified Developer – Associate](https://images.credly.com/size/40x40/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/edfddb56-7d91-4632-a4fd-67496312955b/public_url)
 **AWS Certified Developer – Associate** — Amazon Web Services · *Issued May 2026 · Expires May 2029*
 
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/40x40/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/d1bb2add-2d71-47dc-a5fb-409c10ac8fb2/public_url)
+**AWS Certified Solutions Architect – Associate** — Amazon Web Services · *Issued Jun 2026 · Expires Jun 2029*
+
 ---
 
 ## Get in Touch
